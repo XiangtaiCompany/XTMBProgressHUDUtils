@@ -1,0 +1,7 @@
+XTMBProgressHUDUtils.xcodeproj/xcuserdata/
+XTMBProgressHUDUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTMBProgressHUDUtils.xcodeproj/project.xcworkspace/xcuserdata/
